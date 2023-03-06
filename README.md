@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**ppinkypeach/ppinkypeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduce
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+_💻 I’m currently studying **SpringBoot**, **GoLang**_
+
+_🔥 The Main languages : **Java**, **Python**_
+
+
+
+## Tech Stack
+
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">
+ <img src="https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=FastAPI&logoColor=009688">
+ <img src="https://img.shields.io/badge/Go-02303A?style=for-the-badge&logo=Go&logoColor=00ADD8">
+
+  ## ETC
+
+![ppinkypeach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppinkypeach&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppinkypeach&langs_count=10&layout=compact&theme=dark)](https://github.com/ppinkypeach/ppinkypeach)
+
+
+
+</div>
