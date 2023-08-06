@@ -4,9 +4,9 @@
 
 
   
-_💻 I’m currently studying **SpringBoot**, **GoLang**_
+_💻 I’m currently studying **Nest.js**, **Express.js**_
 
-_🔥 The Main languages : **Java**, **Python**_
+_🔥 The Main languages : **TS**, **JS**_
 
 
 
