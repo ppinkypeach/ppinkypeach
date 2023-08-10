@@ -4,9 +4,9 @@
 
 
   
-_💻 I’m currently studying **Nest.js**, **Express.js**_
+_💻 I’m currently studying **Nest.js**
 
-_🔥 The Main languages : **TS**, **JS**_
+_🔥 The Main languages : **Nest.js**, **SpringBoot**_
 
 
 
