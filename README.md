@@ -6,7 +6,7 @@
   
 _💻 I’m currently studying **Nest.js**
 
-_🔥 The Main languages : **Nest.js**, **SpringBoot**_
+_🔥 The Main languages : **Nest.js**, **Express.js**_
 
 
 
