@@ -34,7 +34,6 @@ _🔥 My Main Framwork:  : **Nest.js**, **Express.js**_
   ## ETC
 
 ![ppinkypeach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppinkypeach&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppinkypeach&langs_count=10&layout=compact&theme=dark)](https://github.com/ppinkypeach/ppinkypeach)
 
 
 
