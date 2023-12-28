@@ -4,8 +4,8 @@
 
 
   
-💻 I’m currently studying **Nest.js**
-
+💻 Main Language: **JavaScript**, **TypeScript**
+  
 _🔥 My Main Framwork:  : **Nest.js**, **Express.js**_
 
 
